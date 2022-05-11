@@ -4,5 +4,5 @@
 
 ## Mi9T/K20 AOD 10 sec Enabler
 
-啟用小米9T/紅米K20 的10秒環境顯示功能
+啟用小米9T/紅米K20 的10秒環境顯示功能<br>
 Enable AOD 10 Sec Feature on MIUI

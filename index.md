@@ -1,6 +1,8 @@
-## 歡迎來到 Bradly0cjw 的亂搞小屋
-
-[回到主頁](https://bradly0cjw.github.io)
+---
+title: Mi9T/K20 AOD 10 sec Enabler
+layout: back
+filename: index
+--- 
 
 ## Mi9T/K20 AOD 10 sec Enabler
 

@@ -1,6 +1,7 @@
 id=davinciaod10
 name=Mi 9T/K20 aod 10second
 version=12.0.7.0QFJMIXM
-versionCode=5
+versionCode=6
 author=bradly
 description=Add 10 second aod display only for Mi 9T/Redmi K20
+updateJson=https://raw.githubusercontent.com/bradly0cjw/Mi9T-K20-AOD-10-sec-enabler/main/Update.json
